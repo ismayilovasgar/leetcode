@@ -11,7 +11,7 @@ class Solution:
 
 
 solution = Solution()
-result = solution.canPlaceFlowers([1, 1, 0, 0, 0, 1, 1], 1)
+result = solution.canPlaceFlowers([0, 0, 1, 0, 0, 1, 0], 1)
 print(result)
 # Example 1:
 # Input: flowerbed = [1,0,0,0,1], n = 1
